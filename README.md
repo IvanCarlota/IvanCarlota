@@ -16,7 +16,7 @@ Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior e apaixonado por Fro
 
 - :office_worker: Trabalhando para conseguir uma vaga de programador Júnior **Angular e Spring**
 - :blue_heart: Techs: Angular, Java, Spring, Mysql e mais!
-- :books: Estudando sobre Frontend :heart:
+- :books: Estudante do Bootcamp Java Web Fullstack da Generation Brasil - 3° edição (Finalizado em 03/07/2020). :heart:
 
 > :octocat: [ivancarlota.github.io](https://ivancarlota.github.io/)
 
