@@ -9,7 +9,7 @@
 
 ## Olá 👋
 
-Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior e apaixonado por Frontend e Backend.
+Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior apaixonado por Frontend e Backend.
 
 - :office_worker: Trabalhando para conseguir uma vaga de programador Júnior. Frameworks de interesse: **Angular e Spring**
 - :blue_heart: Techs: Angular, Java, Spring, Mysql e mais!
