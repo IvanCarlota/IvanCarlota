@@ -1,6 +1,6 @@
 ### Hi there, I am a developer 👋
 
-<!--
+
 # Ivan Carlota :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/IvanCarlota)
@@ -20,4 +20,4 @@ Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior e apaixonado por Fro
 
 > :octocat: [ivancarlota.github.io](https://ivancarlota.github.io/)
 
--->
+
