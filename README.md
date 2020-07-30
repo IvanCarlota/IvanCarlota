@@ -19,4 +19,4 @@ Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior apaixonado por Front
 
 # Outros dados:
 
-![here is my stats](https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&hide_border=true)
+![here is my stats](https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&hide_border=true) - Top languages [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota)](https://github.com/IvanCarlota/github-readme-stats)
