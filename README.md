@@ -17,4 +17,6 @@ Meu nome é Ivan Carlota, Desenvolvedor de Sistemas Júnior apaixonado por Front
 
 > :octocat: [ivancarlota.github.io](https://ivancarlota.github.io/)
 
+# Outros dados:
 
+![here is my stats](https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&hide_border=true)
