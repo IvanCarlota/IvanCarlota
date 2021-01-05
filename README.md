@@ -16,7 +16,7 @@ I'm just a 29-year-old man who is moving from technical support to development.
 > :octocat: [ivancarlota.github.io](https://ivancarlota.github.io/)
 
 ## What I want to do? 🚀
-I'm studying to be a **Developer**, so that I'm learning more about fullstack and practicing **back-end with Java** by myself.
+I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
 # Outros dados:
 
