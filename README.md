@@ -21,5 +21,5 @@ I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 # Outros dados:
 
 
-![here is my stats](https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html&layout=compact&theme=radical")
+![here is my stats](https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html&layout=compact&theme=radical")
 
