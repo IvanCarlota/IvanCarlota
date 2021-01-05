@@ -5,8 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan_Carlota)](https://twitter.com/Ivan_Carlota)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/Ivan_Jr777)
 
-## Who am I? 📝
-I'm just a 29-year-old man who is moving from technical support to development.
+## Who am I? 📝🚀
+I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
 ## Which tools am I learning and using? :construction_worker:
 - :office_worker: Junior Developer. 
@@ -14,9 +14,6 @@ I'm just a 29-year-old man who is moving from technical support to development.
 - :books: Bootcamp Java Web Fullstack student of Generation Brasil - 3rd edition (Finished on 10/07/2020). :heart:
 
 > :octocat: [ivancarlota.github.io](https://ivancarlota.github.io/)
-
-## What I want to do? 🚀
-I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
 ## Stats:
 <tr>
