@@ -21,12 +21,10 @@ I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 # Stats:
 <tr>
   <td>
+       <p>
     <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=tokyonight&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&theme=tokyonight&layout=compact">
+      </p>
   </td>
-  
-  <td>
-  
-</td>
 
 </tr>
 
