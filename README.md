@@ -18,7 +18,7 @@ I'm just a 29-year-old man who is moving from technical support to development.
 ## What I want to do? 🚀
 I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
-# Stats:
+## Stats:
 <tr>
   <td>
        <p>
