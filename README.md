@@ -9,7 +9,7 @@
 I'm just a 29-year-old man who is moving from technical support to development.
 
 ## Which tools am I learning and using? :construction_worker:
-- :office_worker: Looking for a Junior Programmer Job. 
+- :office_worker: Junior Developer. 
 - :blue_heart: Techs: HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, ANGULAR, JAVA, SPRING, MYSQL.
 - :books: Bootcamp Java Web Fullstack student of Generation Brasil - 3rd edition (Finished on 10/07/2020). :heart:
 
