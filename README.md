@@ -19,12 +19,18 @@ I'm just a 29-year-old man who is moving from technical support to development.
 I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
 # Stats:
-<h4 align="center">Top langs :tongue:</h4>
+<tr>
+  <td>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=tokyonight&layout=compact"></p>
+  </td>
+  
+  <td>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&theme=tokyonight&layout=compact"></p>
+</td>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+</tr>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=tokyonight&layout=compact" alt="AnhellO :: Profile Stats" /></p>
+
 
 
