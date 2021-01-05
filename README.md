@@ -18,7 +18,7 @@ I'm just a 29-year-old man who is moving from technical support to development.
 ## What I want to do? 🚀
 I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 
-# Outros dados:
+# Stats:
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
