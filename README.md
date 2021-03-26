@@ -9,7 +9,7 @@ I'm Ivan Carlota, I'm a **Junior Back End Developer** and I really like a new ch
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
-## Technologies:
+## ⚡ Technologies:
 
 These are some of the technologies and tools that I work with:
 
