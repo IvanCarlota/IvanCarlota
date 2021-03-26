@@ -9,9 +9,14 @@ I'm Ivan Carlota, I'm a **Junior Back End Developer** and I really like a new ch
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
-## Which tools am I learning and using? :construction_worker:
+## Technologies:
+
+These are some of the technologies and tools that I work with:
+
 - :office_worker: Junior Developer. 
-- :blue_heart: Techs: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- :blue_heart: Techs: 
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
