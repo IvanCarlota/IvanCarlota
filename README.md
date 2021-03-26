@@ -25,7 +25,6 @@ These are some of the technologies and tools that I work with:
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-- :books: Bootcamp Java Web Fullstack student of Generation Brasil - 3rd edition (Finished on 10/07/2020). :heart:
 
 ## Stats:
 <tr>
