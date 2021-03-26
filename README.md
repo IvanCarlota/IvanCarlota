@@ -15,6 +15,9 @@ I'm a **Junior Developer** and I'm improving myself in **Java** and **Angular**.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-dd4b25?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0062b0?style=flat-square&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-0062b0?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 - :books: Bootcamp Java Web Fullstack student of Generation Brasil - 3rd edition (Finished on 10/07/2020). :heart:
