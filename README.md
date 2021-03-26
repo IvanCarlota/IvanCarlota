@@ -4,14 +4,11 @@ I'm Ivan Carlota, I'm a **Junior Back End Developer** and I really like a new ch
 I love study, build new projects, and work with dedicate team to solve problems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/ivan-carlota/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan_Carlota)](https://twitter.com/Ivan_Carlota)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959820387&text=Hello!)](https://api.whatsapp.com/send?phone=5511959820387&text=Hello!)
 
 ## ⚡ Technologies:
 
 These are some of the technologies and tools that I work with:
-
-- :office_worker: Junior Developer. 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
