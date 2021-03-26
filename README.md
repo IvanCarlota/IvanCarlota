@@ -1,13 +1,11 @@
-# Ivan Carlota :man_technologist:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/ivan-carlota/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan_Carlota)](https://twitter.com/Ivan_Carlota)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/Ivan_Jr777)
-
 ## Hi there 📝🚀
 I'm Ivan Carlota, I'm a **Junior Back End Developer** and I really like a new challenger. I'm from Brazil, and I'm currently living in Sao Paulo.
 
 I love study, build new projects, and work with dedicate team to solve problems.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/ivan-carlota/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan_Carlota)](https://twitter.com/Ivan_Carlota)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/Ivan_Jr777)
 
 ## ⚡ Technologies:
 
