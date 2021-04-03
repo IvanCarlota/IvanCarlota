@@ -9,6 +9,7 @@ I love study, build new projects, and work with dedicate team to solve problems.
 ## ⚡ Technologies:
 
 These are some of the technologies and tools that I work with:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
