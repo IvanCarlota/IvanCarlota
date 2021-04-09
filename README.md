@@ -25,7 +25,7 @@ These are some of the technologies and tools that I work with:
 <tr>
   <td>
        <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=tokyonight&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show&theme=tokyonight&layout=compact">
+          <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show&theme=tokyonight&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show&theme=tokyonight&layout=compact">
       </p>
   </td>
 </tr>
