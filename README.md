@@ -26,7 +26,7 @@ What technology am I studying now?
 ![Ruby](https://img.shields.io/badge/-RUBY-a91401?style=flat-square&logo=ruby)
 
 ## Stats:
-<table border="none">
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&_icons=true&theme=tokyonight">
