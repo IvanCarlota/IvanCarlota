@@ -28,10 +28,11 @@ What technology am I studying now?
 ## Stats:
 <tr>
   <td>
-       <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show&theme=tokyonight&layout=compact">
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&_icons=true&theme=tokyonight">
   </td>
+  <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show&theme=tokyonight&layout=compact">
+  </td>  
 </tr>
 
 
