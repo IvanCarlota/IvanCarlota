@@ -21,7 +21,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
-What am I studying now?
+What technology am I studying now?
 
 ![Ruby](https://img.shields.io/badge/-RUBY-a91401?style=flat-square&logo=ruby)
 
