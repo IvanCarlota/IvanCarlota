@@ -29,10 +29,10 @@ What technology am I studying now?
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&theme=tokyonight">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&langs_count=9&show&theme=tokyonight">
     </td>  
   </tr>
  </table>
