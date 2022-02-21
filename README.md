@@ -32,7 +32,7 @@ What technology am I studying now?
       <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&theme=tokyonight">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html,css&langs_count=20&show&theme=tokyonight&layout=compact">
     </td>  
   </tr>
  </table>
