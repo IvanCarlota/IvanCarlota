@@ -3,7 +3,7 @@ I'm Ivan Carlota, I'm a **Junior Back End Developer** and I really like a new ch
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/ivan-carlota/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanjcarlota/)](https://www.linkedin.com/in/ivanjcarlota/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959820387&text=Hello!)](https://api.whatsapp.com/send?phone=5511959820387&text=Hello!)
 
 ## ⚡ Technologies:
@@ -36,8 +36,3 @@ What technology am I studying now?
     </td>  
   </tr>
  </table>
-
-
-
-
-
