@@ -1,5 +1,5 @@
 ## Hi there 📝🚀
-I'm Ivan Carlota, I'm a **Mid level Software Developer** and I really like a new challenger. I'm from Brazil, and I'm currently living in Curitiba.
+I'm Ivan Carlota, I'm **Software Developer (Mid level)** and I really like a new challenger. I'm from Brazil, and I'm currently living in Curitiba.
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
@@ -29,10 +29,10 @@ What technology am I studying now?
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=leonardoscorza&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&theme=tokyonight">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoscorza&hide=html,css&langs_count=10&show&theme=tokyonight&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html,css&langs_count=10&show&theme=tokyonight&layout=compact">
     </td>  
   </tr>
  </table>
