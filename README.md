@@ -23,7 +23,7 @@ These are some of the technologies and tools that I work with:
 
 What technology am I studying now?
 
-![Ruby](https://img.shields.io/badge/-RUBY-a91401?style=flat-square&logo=ruby)
+![C#](https://img.shields.io/badge/-Core-007ACC?style=flat-square&logo=.net)
 
 ## Stats:
 <table border="0">
