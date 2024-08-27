@@ -12,10 +12,11 @@ These are some of the technologies and tools that I work with:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQLSERVER-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft%20SQL%20Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=sql-server&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-dd4b25?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0062b0?style=flat-square&logo=css3)
