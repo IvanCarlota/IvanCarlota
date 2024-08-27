@@ -15,7 +15,7 @@ These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQLSERVER-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-dd4b25?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0062b0?style=flat-square&logo=css3)
