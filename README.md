@@ -23,15 +23,3 @@ These are some of the technologies and tools that I work with:
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-
-## Stats:
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanCarlota&show_icons=true&theme=tokyonight">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&hide=html,css&langs_count=10&show&theme=tokyonight&layout=compact">
-    </td>  
-  </tr>
- </table>
