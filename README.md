@@ -23,3 +23,8 @@ These are some of the technologies and tools that I work with:
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IvanCarlota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IvanCarlota&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarlota&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
